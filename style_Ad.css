@@ -54,7 +54,7 @@ body {
 .cont{
   background: url(image_adm.jpeg);
   overflow-x: hidden;
-  height: 55.5%;
+  height: 100%;
   width: 40%;
   position:absolute;
   z-index: 1;
